@@ -1,66 +1,82 @@
 [
   {
     "id": "gi-1a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-1.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-1.png",
+    "caption": ""
   },
   {
     "id": "gi-1b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-9.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-9.png",
+    "caption": "This is some text inside of a div block."
   },
   {
     "id": "gi-2a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-2.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-2.png",
+    "caption": ""
   },
   {
     "id": "gi-2b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-10.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-10.png",
+    "caption": ""
   },
   {
     "id": "gi-3a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-3.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-3.png",
+    "caption": "This is some text inside of a div block."
   },
   {
     "id": "gi-3b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-11.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-11.png",
+    "caption": ""
   },
   {
     "id": "gi-4a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-4.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-4.png",
+    "caption": ""
   },
   {
     "id": "gi-4b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-12.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-12.png",
+    "caption": ""
   },
   {
     "id": "gi-5a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-5.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-5.png",
+    "caption": ""
   },
   {
     "id": "gi-5b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-13.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-13.png",
+    "caption": "This is some text inside of a div block."
   },
   {
     "id": "gi-6a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-6.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-6.png",
+    "caption": "This is some text inside of a div block."
   },
   {
     "id": "gi-6b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-14.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-14.png",
+    "caption": ""
   },
   {
     "id": "gi-7a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-7.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-7.png",
+    "caption": ""
   },
   {
     "id": "gi-7b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-15.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-15.png",
+    "caption": ""
   },
   {
     "id": "gi-8a",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-8.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-8.png",
+    "caption": ""
   },
   {
     "id": "gi-8b",
-    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-16.png"
+    "src": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/gallery-16.png",
+    "caption": "This is some text inside of a div block."
   }
 ]
