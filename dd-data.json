@@ -7,7 +7,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-alex.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/AlexanderHagelborn.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Blanka Kesek",
@@ -16,7 +17,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/BlankaKesek.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Johannes Hedman",
@@ -25,7 +27,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/johannes-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/JohannesHedman.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Alexander Hagelborn",
@@ -34,7 +37,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-alex.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/AlexanderHagelborn.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Blanka Kesek",
@@ -43,7 +47,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/BlankaKesek.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "people_culture"
     },
     {
       "name": "Johannes Hedman",
@@ -52,16 +57,18 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/johannes-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/JohannesHedman.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "You",
-      "role": "Role",
+      "role": ["Data engineer", "Analytics engineer", "Data Ops", "Product owner"],
       "email": "hugo@datadao.se",
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-alex.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/profile-you.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Blanka Kesek",
@@ -70,7 +77,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/BlankaKesek.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "people_culture"
     },
     {
       "name": "Johannes Hedman",
@@ -79,7 +87,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/johannes-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/JohannesHedman.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Alexander Hagelborn",
@@ -88,7 +97,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-alex.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/AlexanderHagelborn.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     },
     {
       "name": "Blanka Kesek",
@@ -97,7 +107,8 @@
       "linkedin": "#",
       "avatar": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/avatar-blanka.png",
       "avatarLarge": "https://raw.githubusercontent.com/Adikku/temp-dd/refs/heads/main/employees/BlankaKesek.png",
-      "quote": "This is some text inside of a div block."
+      "quote": "This is some text inside of a div block.",
+      "department": "engineering"
     }
   ],
   "gallery": [
